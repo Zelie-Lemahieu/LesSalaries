@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExerciceLesSalaries_24_12_24/1.0.0": {
+        "runtime": {
+          "ExerciceLesSalaries_24_12_24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciceLesSalaries_24_12_24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
